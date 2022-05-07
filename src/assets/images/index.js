@@ -1,0 +1,22 @@
+export default {
+    payments: require('./payments.png'),
+    disabledCard: require('./deactivated_cards.png'),
+    primaryLogo: require('./aspire_logo.png'),
+    topup: require('./top_up.png'),
+    weeklySpending: require('./weekly_spending.png'),
+    frozenCard: require('./freeze_card.png'),
+    profile: require('./profile.png'),
+    activeProfile: require('./profile_active.png'),
+    newCard: require('./get_new_card.png'),
+    logo: require('./aspire.png'),
+    activeLogo: require('./aspire_active.png'),
+    debitCard: require('./debit_card.png'),
+    activeDebitCard: require('./debit_card_active.png'),
+    visa: require('./visa.png'),
+    meter: require('./meter.png'),
+    activePayments: require('./payments_active.png'),
+    credit: require('./credit.png'),
+    activeCredit: require('./credit_active.png'),
+    whiteLogo: require('./aspire_white.png'),
+    
+}
